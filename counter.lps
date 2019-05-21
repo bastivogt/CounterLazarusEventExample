@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="counter.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="36" Y="26"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="sebastian.vogt.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="52" Y="68"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="sebastian.vogt.pas"/>
+        <Caret Line="27" Column="26"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sebastian.vogt.pas"/>
+        <Caret Line="26" Column="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="sebastian.vogt.pas"/>
+        <Caret Line="29" Column="16"/>
+      </Position3>
+      <Position4>
+        <Filename Value="sebastian.vogt.pas"/>
+        <Caret Line="24" Column="7"/>
+      </Position4>
+      <Position5>
+        <Filename Value="sebastian.vogt.pas"/>
+        <Caret Line="49" Column="30" TopLine="22"/>
+      </Position5>
+      <Position6>
+        <Filename Value="sebastian.vogt.pas"/>
+        <Caret Line="65" Column="25" TopLine="43"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
